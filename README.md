@@ -1,16 +1,35 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AckStorm/AckStorm/main/banner.png" alt="AckStorm Banner" />
+</p>
 
-<!--
-**AckStorm42/AckStorm42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm AckStorm ⚡
 
-Here are some ideas to get you started:
+💻 Cybersecurity Architect & Application Security Engineer  
+🌩️ Building secure code and unleashing storm-level creativity  
+🌐 Open-source explorer, lifelong learner, and tech tinkerer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚡ About Me
+- 🔐 Passionate about **application security** & **DevSecOps**
+- 🛠️ Skilled in **Threat Modeling**, **Secure SDLC**, and **Developer Enablement**
+- 📜 Certified: **GIAC GWEB**
+- 🌟 Always looking to merge **security & creativity**
+
+---
+
+## 🧰 Tech Toolbox
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,python,docker,git,github,aws,azure,terraform,js,ts,nodejs,react,html,css" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AckStorm&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AckStorm&theme=tokyonight" height="150"/>
+</p>
+
+---
