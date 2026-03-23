@@ -1,6 +1,8 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Security](https://img.shields.io/badge/Focus-AppSec-red)
-![License](https://img.shields.io/badge/License-MIT-green)# 👋 Hey, I'm AckStorm ⚡
+![License](https://img.shields.io/badge/License-MIT-green)
+
+# 👋 Hey, I'm AckStorm ⚡
 
 💻 Cybersecurity Architect | Application Security Engineer
 🔐 DevSecOps • Threat Modeling • Secure SDLC
