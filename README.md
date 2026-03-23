@@ -1,35 +1,80 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AckStorm/AckStorm/main/banner.png" alt="AckStorm Banner" />
-</p>
-
 # 👋 Hey, I'm AckStorm ⚡
 
-💻 Cybersecurity Architect & Application Security Engineer  
-🌩️ Building secure code and unleashing storm-level creativity  
-🌐 Open-source explorer, lifelong learner, and tech tinkerer  
+💻 Cybersecurity Architect | Application Security Engineer
+🔐 DevSecOps • Threat Modeling • Secure SDLC
+🌩️ Building secure systems and unleashing storm-level creativity
 
 ---
 
 ## ⚡ About Me
-- 🔐 Passionate about **application security** & **DevSecOps**
-- 🛠️ Skilled in **Threat Modeling**, **Secure SDLC**, and **Developer Enablement**
-- 📜 Certified: **GIAC GWEB**
-- 🌟 Always looking to merge **security & creativity**
+
+* 🔐 Passionate about **application security & secure software design**
+* 🛠️ Experienced in **threat modeling, code reviews, and security tooling**
+* 🤝 Focused on **developer enablement and practical security adoption**
+* 📜 **GIAC GWEB Certified**
+* 🌟 I enjoy blending **security, automation, and creative problem-solving**
 
 ---
 
 ## 🧰 Tech Toolbox
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,docker,git,github,aws,azure,terraform,js,ts,nodejs,react,html,css" />
-</p>
+
+**Security & AppSec**
+
+* Threat Modeling (STRIDE, architecture reviews)
+* Secure SDLC / DevSecOps practices
+* SAST / DAST / Dependency Scanning
+
+**Languages & Tools**
+
+* Python 🐍
+* Java ☕
+* Bash / Linux 🐧
+* Git & GitHub
+
+**Other Areas**
+
+* API Security (OAuth2, OIDC)
+* CI/CD Security
+* Automation & scripting
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AckStorm42&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AckStorm42&theme=tokyonight" height="150"/>
-</p>
+## 🚀 Featured Project
+
+### 🔍 AppSec Dependency Scanner
+
+A lightweight Python tool that aggregates vulnerability data from:
+
+* OSV
+* NVD
+* EPSS
+* CISA KEV
+
+👉 https://github.com/AckStorm42/appsec-dependency-scanner
+
+**Highlights:**
+
+* Multi-source vulnerability enrichment
+* Clean CLI output
+* Built for learning and practical AppSec workflows
 
 ---
+
+## 🌱 What I'm Working On
+
+* Expanding AppSec tooling projects
+* Exploring automation for vulnerability intelligence
+* Building practical, demo-friendly security tools
+
+---
+
+## 🤝 Let's Connect
+
+* 💼 Open to **Cybersecurity Architect / AppSec roles**
+* 🌐 Always interested in collaboration and learning
+
+---
+
+## ⚡ Fun Fact
+
+The “AckStorm” name comes from combining curiosity, energy, and just enough chaos to keep things interesting ⚡
