@@ -1,5 +1,9 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Security](https://img.shields.io/badge/Focus-AppSec-red)
+![Next.js](https://img.shields.io/badge/Next.js-Full_Stack-black)
+![TypeScript](https://img.shields.io/badge/TypeScript-Strong_Typing-3178C6)
+![Java](https://img.shields.io/badge/Java-Backend-orange)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-OAuth2_&_APIs-6DB33F)
+![Focus](https://img.shields.io/badge/Focus-AppSec-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 # 👋 Hey, I'm AckStorm ⚡
